@@ -108,7 +108,7 @@ local corals = {
     "Violet",
     "Red",
     "Yellow",
-    "Red",
+    "Crimson",
     "Green"
 }
 
